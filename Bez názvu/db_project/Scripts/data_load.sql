@@ -1,1 +1,0 @@
--- zde budou insert statements pro vsechny tabulky v projektu
